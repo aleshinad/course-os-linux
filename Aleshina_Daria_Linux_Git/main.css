@@ -1,0 +1,39 @@
+h2 {
+    color: rgb(38, 133, 189) ;
+    text-decoration-line: underline;
+    background-color: rgb(253, 253, 253);
+}
+
+
+.bird {
+    color: rgb(10, 70, 105);
+    text-decoration-line: underline;
+    
+}
+ 
+h3 {
+    color:rgb(83, 174, 231);
+    text-decoration-line: underline;
+}
+
+.pict {
+    width: 600px;
+    margin: 0 auto; 
+
+}
+
+.giraffe {
+    background-color: rgb(192, 214, 226);
+}
+
+.elephant {
+    font-weight: bold;
+    font-size: large;
+    text-decoration-line: underline;
+    font-style: italic;
+}
+
+.pig {
+    font-weight: bold;
+    font-style: italic;
+}
